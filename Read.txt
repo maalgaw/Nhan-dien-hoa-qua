@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/lakshaytyagi01/fruit-detection/data
+https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
+https://www.youtube.com/watch?v=wuZtUMEiKWY
+https://colab.research.google.com/drive/18Ph9yfwTKbAe9JIz3pVcK-KZP7cb2Gsi?usp=sharing
+https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1#
